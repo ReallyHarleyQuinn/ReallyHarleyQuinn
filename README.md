@@ -37,7 +37,7 @@ Join me on V3rmillion.gg, where I chat with others, share knowledge, and provide
 
 | Node.js | Git | Docker | Virtual Box |
 |----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/ReallyHarleyQuinn/ReallyHarleyQuinn/blob/main/assets/VirtualBoxLogo.jpg" title="VirtualBox" alt="VirtualBox" width="55" height="55"/>|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img style="padding-left: 5px;" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/ReallyHarleyQuinn/ReallyHarleyQuinn/blob/main/assets/VirtualBoxLogo.png" title="VirtualBox" alt="VirtualBox" width="55" height="55"/>|
 
 
 
