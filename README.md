@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hello, I'm Harley Quinn! 👋
 
-<!--
-**ReallyHarleyQuinn/ReallyHarleyQuinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![trophy](https://github-profile-trophy.vercel.app/?username=ReallyHarleyQuinn&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-Here are some ideas to get you started:
+### About Me: 📝
+I'm a hobbyist developer passionate about coding and creating helpful tools, websites, and other programs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm working on various projects to improve my skills and contribute to the general community. You will see some of my current projects below!
+      
+   
+### Social media: 📶
+Join me on V3rmillion.gg, where I chat with others, share knowledge, and provide scripting support!
+
+[![<img src="https://github.com/ReallyHarleyQuinn/ReallyHarleyQuinn/blob/main/assets/VermillionLogo.jpg" title="V3rmillion"  alt="V3rmillion" width="32" height="32"/>]](https://v3rmillion.gg/User-Harley-Quinn)
+ 
+
+
+### Current Projects: 🌱
+
+- Tweaking this README
+- [Anti-AFK Bot](https://github.com/ReallyHarleyQuinn/afkbot-v1)
+- [GUI -> Luau for Roblox development](https://github.com/ReallyHarleyQuinn/RHQ-GUI-LuaU)
+- Self improvment
+
+
+## Languages and Tools 🛠️
+<div>
+
+### Languages:
+| Python | Lua | JS |
+|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="Lua"  alt="Lua" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
+
+
+
+### Miscellaneous Tools:
+
+| Node.js | Git | Docker | Virtual Box |
+|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="Postman" alt="Postman" width="80" height="55"/>|
+
+
+
+</div>
+
+---
+
+  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ReallyHarleyQuinn&theme=highcontrast&hide_border=true&border_radius=6&card_width=800&card_height=220" alt="RHQ GitHub Streak" />
+</p>
+
+
+---
+
+
+
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=ReallyHarleyQuinn&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReallyHarleyQuinn&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+</p>
+ 
+
+
+<div id="header" align="center">
+  <div style="overflow: hidden; border-radius: 6px;"><img src="https://komarev.com/ghpvc/?username=ReallyHarleyQuinn&style=for-the-badge&color=orange" alt=""/></div>
+</div>
