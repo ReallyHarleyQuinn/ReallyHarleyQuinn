@@ -48,7 +48,7 @@ Join me on V3rmillion.gg, where I chat with others, share knowledge, and provide
 
 </div>
 
-<hr style="height:1px !important; border:none; color:#30363d; background-color:#30363d;" />
+# 
   
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ReallyHarleyQuinn&theme=highcontrast&hide_border=true&border_radius=6&card_width=800&card_height=220" alt="RHQ GitHub Streak" />
