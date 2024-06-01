@@ -11,7 +11,7 @@ Currently, I'm working on various projects to improve my skills and contribute t
 ### Social media: 📶
 Join me on V3rmillion.gg, where I chat with others, share knowledge, and provide scripting support!
 
-[![<img src="https://github.com/ReallyHarleyQuinn/ReallyHarleyQuinn/blob/main/assets/VermillionLogo.jpg" title="V3rmillion"  alt="V3rmillion" width="32" height="32"/>]](https://v3rmillion.gg/User-Harley-Quinn)
+[<img src="https://github.com/ReallyHarleyQuinn/ReallyHarleyQuinn/blob/main/assets/VermillionLogo.jpg" title="V3rmillion"  alt="V3rmillion" width="55" height="55"/>](https://v3rmillion.gg/User-Harley-Quinn)
  
 
 
