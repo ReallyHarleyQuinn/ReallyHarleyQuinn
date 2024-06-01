@@ -56,7 +56,6 @@ Join me on V3rmillion.gg, where I chat with others, share knowledge, and provide
 </p>
 
 
----
 
 
 
@@ -66,7 +65,7 @@ Join me on V3rmillion.gg, where I chat with others, share knowledge, and provide
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReallyHarleyQuinn&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark&hide_border=true">
 </p>
  
-
+---
 
 <div id="header" align="center">
   <img style="border-radius: 6px; !important" src="https://komarev.com/ghpvc/?username=ReallyHarleyQuinn&style=for-the-badge&color=orange" alt="Visitors"/>
