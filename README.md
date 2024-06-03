@@ -1,7 +1,5 @@
 # Hello, I'm Harley Quinn! 👋
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ReallyHarleyQuinn&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
-
 ### About Me: 📝
 I'm a hobbyist developer passionate about coding and creating helpful tools, websites, and other programs.
 
