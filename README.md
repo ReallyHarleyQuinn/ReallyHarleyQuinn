@@ -15,7 +15,7 @@ Join me on V3rmillion.gg, where I chat with others, share knowledge, and provide
 
 ### Current Projects: 🌱
 
-- [Anti-AFK Bot (v1)](https://github.com/ReallyHarleyQuinn/afkbot-v1)
+- [Anti-AFK Bot (v1)](https://github.com/ReallyHarleyQuinn/Anti-AFK-Bot-v1)
 - [GUI -> Luau for Roblox development](https://github.com/ReallyHarleyQuinn/RHQ-GUI-LuaU)
 - This README
 
