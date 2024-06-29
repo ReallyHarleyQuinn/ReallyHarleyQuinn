@@ -30,17 +30,17 @@ Join me on V3rmillion.gg, where I chat with others, share knowledge, and provide
 
 
 ### Database Tools:
-| MySQL | SQLite |
-|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|
+| MySQL | SQLite | PostgreSQL |
+|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/>|
 
 
 
 ### Miscellaneous Tools:
 
-| Node.js | Git | Docker | VirtualBox |
-|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img style="padding-left: 5px;" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<center><img src="https://github.com/ReallyHarleyQuinn/ReallyHarleyQuinn/blob/main/assets/VirtualBoxLogo.png" title="VirtualBox" alt="VirtualBox" width="55" height="55"/></center>|
+| Node.js | Git | Docker | VirtualBox | VirtualBox |
+|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img style="padding-left: 5px;" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<center><img src="https://github.com/ReallyHarleyQuinn/ReallyHarleyQuinn/blob/main/assets/VirtualBoxLogo.png" title="VirtualBox" alt="VirtualBox" width="55" height="55"/></center>|<img style="padding-left: 5px;" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="55" height="55"/>|
 
 
 
