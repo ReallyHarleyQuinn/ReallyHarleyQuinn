@@ -6,13 +6,6 @@ I'm a hobbyist developer passionate about coding and creating helpful tools, web
 Currently, I'm working on various projects to improve my skills and contribute to the general community. You will see some of my current projects below!
 
 
-### Social media: 📶
-Join me on V3rmillion.gg, where I chat with others, share knowledge, and provide scripting support!
-
-[<img src="https://github.com/ReallyHarleyQuinn/ReallyHarleyQuinn/blob/main/assets/VermillionLogo.jpg" title="V3rmillion"  alt="V3rmillion" width="55" height="55"/>](https://v3rmillion.gg/User-Harley-Quinn)
-
-
-
 ### Current Projects: 🌱
 
 - [Anti-AFK Bot (v1)](https://github.com/ReallyHarleyQuinn/Anti-AFK-Bot-v1)
